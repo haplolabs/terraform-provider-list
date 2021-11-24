@@ -5,7 +5,7 @@ terraform {
 //      version = "3.37.0"
 //    }
     aws = {
-      version = "3.66.0"
+      version = "3.52.0"
     }
     null = {
       version = "3.1.0"
